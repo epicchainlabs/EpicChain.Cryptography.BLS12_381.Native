@@ -151,6 +151,6 @@ We welcome contributions from the community. To contribute, follow these steps:
 
 ## Contact
 
-For any questions or issues, please contact the EpicChain development team at [support@epicchain.org](mailto:support@epic-chain.org).
+For any questions or issues, please contact the EpicChain development team at [support@epic-chain.org](mailto:support@epic-chain.org).
 
 By following this guide, you can effectively set up, build, and integrate `EpicChain.Cryptography.BLS12_381.Native` into your projects, ensuring secure and efficient cryptographic operations.
