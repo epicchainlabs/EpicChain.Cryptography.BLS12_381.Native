@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>Neo.Cryptography.BLS12_381.Native</id>
+    <id>EpicChain.Cryptography.BLS12_381.Native</id>
     <version>0.0.2</version>
-    <authors>NGD</authors>
+    <authors>EpicChain Lab's</authors>
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
-    <projectUrl>https://github.com/neo-ngd/Neo.Cryptography.BLS12_381</projectUrl>
+    <projectUrl>https://github.com/epicchainlabsd/EpicChain.Cryptography.BLS12_381</projectUrl>
     <description>A native library of BLS</description>
-    <copyright>2015-2022 The Neo Project</copyright>
-    <tags>NEO AntShares Blockchain BLS12_381</tags>
-    <repository type="git" url="https://github.com/neo-ngd/Neo.Cryptography.BLS12_381.Native.git" />
+    <copyright>2021-2024 EpicChain Lab's</copyright>
+    <tags>EpicChain AntShares Blockchain BLS12_381</tags>
+    <repository type="git" url="https://github.com/epicchainlabs/EpicChain.Cryptography.BLS12_381.Native.git" />
     <dependencies>
       <group targetFramework="net6.0" />
     </dependencies>
